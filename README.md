@@ -4,17 +4,6 @@
 
 This project performs sentiment analysis on a collection of tweets. The model employs Logistic Regression to categorize tweets as **Positive** or **Negative** based on their content. 
 
-## Table of Contents
-
-1.  [Dataset](#dataset)
-2.  [Project Structure](#project-structure)
-3.  [Setup](#setup)
-4.  [Data Preprocessing](#data-preprocessing)
-5.  [Model Training](#model-training)
-6.  [Evaluation](#evaluation)
-7.  [Usage](#usage)
-8.  [Results](#results)
-9.  [License](https://www.google.com/url?sa=E&source=gmail&q=#license)
 
 ## Dataset
 
